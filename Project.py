@@ -263,7 +263,7 @@ def scranton():
         print_pause("\nYou have entered the Steamtown mall to make business\n")
         shop()
     # if player decides to enter into the farms
-    elif "farms " in scranton_choice:
+    elif "farms" in scranton_choice:
         print_pause("\nYou have checked into the Schrute Farms")
         farms ()
     # if player decides to enter into the contest arena
