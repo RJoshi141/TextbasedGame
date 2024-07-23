@@ -72,4 +72,3 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 Feel free to fork this repository, contribute, and share your own adventures. Pull requests and issues are welcome!
 
 Happy adventuring!
-```
