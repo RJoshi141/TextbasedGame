@@ -53,6 +53,8 @@ Enjoy the adventure and make strategic decisions to reach one of the two possibl
 - **Inventory Management:** Collect and use items to aid your journey.
 - **Fighting and Decisions:** Engage in battles and make critical decisions that affect the game's outcome.
 
+- **Game Play FLow:** .
+  ![Game Play Flow](ProjectFlowChart.pdf)
 **Tips:**
 - Explore thoroughly; hints and secrets are scattered throughout the game.
 - Pay attention to day/night cycles and manage your inventory wisely.
