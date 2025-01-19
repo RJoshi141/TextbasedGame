@@ -68,7 +68,7 @@ Enjoy the adventure and make strategic decisions to reach one of the two possibl
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENCE). See the `LICENSE` file for details.
 
 ---
 
